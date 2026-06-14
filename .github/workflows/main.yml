@@ -40,7 +40,7 @@ jobs:
 
       # Langkah 4: Jalankan skrip Python Anda
       - name: Run automate_Andreas-Kevin script
-        run: python automate_Andreas-Kevin.py
+        run: python automate_Muhammad-Ridho-Nurul-Ihsan.py
 
       - name: 4.5 - List files after python script
         run: |
